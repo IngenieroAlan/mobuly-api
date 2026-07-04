@@ -72,11 +72,11 @@ PostgreSQL
 
 ## 💾 Estado de Implementación
 
-- [ ] Configuración inicial
-- [ ] Prisma Schema
-- [ ] Dominio (entities, enums, repositories ports, exceptions, valueObjects)
-- [ ] Aplicación (useCases, DTOs, services)
-- [ ] Infraestructura (prisma, repositories, controllers, validators, auth, logger)
-- [ ] Endpoints (NestJS Controllers + Modules)
-- [ ] Validación (Zod schemas)
+- [x] Configuración inicial
+- [x] Prisma Schema
+- [x] Dominio (entities, enums, repositories ports, exceptions, valueObjects)
+- [x] Aplicación (useCases, DTOs, services)
+- [x] Infraestructura (prisma, repositories, controllers, validators, auth, logger)
+- [x] Endpoints (NestJS Controllers + Modules)
+- [x] Validación (Zod schemas)
 - [ ] Tests (Vitest)
